@@ -1,2 +1,2 @@
-# Angular 教學目錄
+# Angular 學習目錄
 01 - Angular 介紹
